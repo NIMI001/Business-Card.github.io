@@ -1,0 +1,14 @@
+{
+  "name": "online-business-card",
+  "description": "A portable personalized business card",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}

@@ -1,2 +1,2 @@
-# Business-Card.github.io
-Personal business card designed using basic HTML and CSS
+# Business Card
+Used basic html and css properties to create an online presence.
